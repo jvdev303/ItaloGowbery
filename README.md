@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ItaloGowbery
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning HTML, CSS and python
-- 📫 How to reach me italogowbery@hotmail.com
+- Hi, I’m @ItaloGowbery
+- I’m currently learning python, C++
+- How to reach me italogowbery@hotmail.com
 
 <!---
 ItaloGowbery/ItaloGowbery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
